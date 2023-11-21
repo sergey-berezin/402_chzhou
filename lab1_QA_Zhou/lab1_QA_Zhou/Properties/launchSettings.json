@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "lab1_QA_Zhou": {
+      "commandName": "Project",
+      "commandLineArgs": "..\\\\..\\\\..\\\\..\\\\hobbit.txt"
+    }
+  }
+}
