@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BertViewModel", "BertViewMo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab2_TextQA", "Lab2_ZHOU\Lab2_TextQA.csproj", "{5583D7EF-F077-4E11-8C4D-75A4CAFA07F2}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DBModel", "..\..\lab_3\DBModel\DBModel.csproj", "{CA4A33E0-438A-48A4-BBA1-7C61E935B29C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{5583D7EF-F077-4E11-8C4D-75A4CAFA07F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5583D7EF-F077-4E11-8C4D-75A4CAFA07F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5583D7EF-F077-4E11-8C4D-75A4CAFA07F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA4A33E0-438A-48A4-BBA1-7C61E935B29C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA4A33E0-438A-48A4-BBA1-7C61E935B29C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA4A33E0-438A-48A4-BBA1-7C61E935B29C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA4A33E0-438A-48A4-BBA1-7C61E935B29C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
