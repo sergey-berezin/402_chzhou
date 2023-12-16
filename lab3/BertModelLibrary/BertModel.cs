@@ -19,7 +19,10 @@ namespace BertModelLibrary
         static bool isDownloaded = false;
         static string modelWebSource = "";
 
-        public BertModel(string webSource) => modelWebSource = webSource;
+        public BertModel(string webSource)
+        {
+            modelWebSource = webSource;
+        }
 
         public async Task Create()
         {
